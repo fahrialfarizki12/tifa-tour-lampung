@@ -26,12 +26,12 @@ export default function HomePage() {
           <About />
         </div>
 
-        <div className="mb-10">
-          <CTA />
-        </div>
-
         <div>
           <Testimonials />
+        </div>
+
+        <div className="mb-5">
+          <CTA />
         </div>
       </section>
     </>
