@@ -3,22 +3,40 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Bapak Ahmad & Ibu Siti",
-    city: "Bandar Lampung",
-    image: "/hero-1-bg.jpg",
-    text: "Alhamdulillah perjalanan umroh sangat nyaman dan terorganisir. Hotel dekat Masjidil Haram, pembimbing sangat sabar, dan pelayanan Tifa Tour benar-benar amanah.",
+    name: "Dokumentasi Jamaah",
+    city: "Mekkah",
+    image: "/foto umroh 2.jpeg",
+    text: "Suasana perjalanan umroh bersama jamaah Tifa Tour dengan pelayanan yang nyaman dan pendampingan ibadah yang baik.",
   },
   {
-    name: "Ibu Nurhayati",
-    city: "Metro Lampung",
-    image: "/hero-1-bg.jpg",
-    text: "Awalnya ragu, tapi setelah berangkat semuanya sesuai janji. Mulai dari visa, tiket, hotel sampai bimbingan ibadah sangat profesional.",
+    name: "Perjalanan Ibadah",
+    city: "Madinah",
+    image: "/foto umroh 5.jpeg",
+    text: "Momen kebersamaan jamaah selama menjalankan ibadah di Tanah Suci.",
   },
   {
-    name: "Keluarga H. Ridwan",
-    city: "Pringsewu",
-    image: "/hero-1-bg.jpg",
-    text: "MasyaAllah pengalaman luar biasa. Pendamping travel selalu sigap membantu jamaah lansia dan fasilitas sangat memuaskan.",
+    name: "Kegiatan Jamaah",
+    city: "Mekkah",
+    image: "/foto umroh 6.jpeg",
+    text: "Dokumentasi perjalanan dan aktivitas jamaah selama program umroh berlangsung.",
+  },
+  {
+    name: "Momen Umroh",
+    city: "Makkah",
+    image: "/foto umroh 1.jpeg",
+    text: "Perjalanan ibadah yang penuh khidmat bersama Tifa Tour.",
+  },
+  {
+    name: "Dokumentasi Perjalanan",
+    city: "Madinah",
+    image: "/foto umroh 8.jpeg",
+    text: "Kebersamaan jamaah dalam menjalankan rangkaian ibadah umroh.",
+  },
+  {
+    name: "Suasana Tanah Suci",
+    city: "Arab Saudi",
+    image: "/foto umroh 7.jpeg",
+    text: "Dokumentasi suasana perjalanan dan pelayanan selama ibadah umroh.",
   },
 ];
 
